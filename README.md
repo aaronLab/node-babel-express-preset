@@ -1,4 +1,4 @@
-# node-babel-express-preset
+# babel-node-express-preset
 
 ## Summary
 
